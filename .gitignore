@@ -1,0 +1,6 @@
+Code/DataPrep/certificates/*
+Data/Processed/*
+Data/Modeling/*
+
+# .DS_Store files are only for macOS folder attributes and should be ignored
+.DS_Store

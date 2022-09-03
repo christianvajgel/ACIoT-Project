@@ -1,0 +1,5 @@
+# Final Project Report
+
+Finally the project was a success. Since the early start with choosing the dataset, interpreting the data, filtering and processing it the results were great. The connection with AWS and setting the tools needed for the proccess had some difficulties but were correclty solved. The prediction used a quick and stable library which facillitated the work and delivered a more than expected result. At the end, the virtual atuator on AWS received the correct commands to turn-on/off the AC integrated with a IoT sensor.
+
+The next steps would be integrate this system into a IoT device using this structure build on this project to really make usefull this entire work with a real AC. It is also interesting to build a IoT system based on this project but with the capability to get data from the ambiance, process it and send the command directly to AWS atuator, the turning-on/off the integrated AC.
